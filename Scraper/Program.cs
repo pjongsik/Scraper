@@ -16,10 +16,10 @@ namespace Scraper
             if (args.Length > 0 && "autosearch".Equals(args[0]))
             {
                 bool isOversee = false;
-                var main = new MainForm();
                 if (args.Length > 1 && "oversee".Equals(args[1]))
                     isOversee = true;
 
+                var main = new MainForm();
                 main.SearchAndSendMessage(isOversee : isOversee);
                 return;
             }
