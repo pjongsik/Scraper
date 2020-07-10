@@ -1,0 +1,9 @@
+D:\workspace_vs2015\Scraper\Scraper\bin\Release\Scraper.exe.config
+D:\workspace_vs2015\Scraper\Scraper\bin\Release\Scraper.exe
+D:\workspace_vs2015\Scraper\Scraper\bin\Release\Scraper.pdb
+D:\workspace_vs2015\Scraper\Scraper\obj\Release\Scraper.MainForm.resources
+D:\workspace_vs2015\Scraper\Scraper\obj\Release\Scraper.Properties.Resources.resources
+D:\workspace_vs2015\Scraper\Scraper\obj\Release\Scraper.csproj.GenerateResource.Cache
+D:\workspace_vs2015\Scraper\Scraper\obj\Release\Scraper.exe
+D:\workspace_vs2015\Scraper\Scraper\obj\Release\Scraper.pdb
+D:\workspace_vs2015\Scraper\Scraper\obj\Release\Scraper.csprojResolveAssemblyReference.cache
