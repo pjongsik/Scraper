@@ -54,7 +54,7 @@ namespace Scraper
             List<BoardData> results = new List<BoardData>();
 
             foreach(var keyword in keywords)
-                results.AddRange(_list.Where(x => x.제목.ToLower().Contains(keyword.ToLower())).ToList());
+                results.AddRange(_list.Where(x => x.제목.ToLower().Contains(keyword.Trim().ToLower())).ToList());
 
             results = results.GroupBy(x => x).Select(x => x.Key).ToList();
 
